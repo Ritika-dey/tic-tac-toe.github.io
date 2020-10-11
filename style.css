@@ -11,7 +11,7 @@ section{
 .col{
     width: 100px;
     height: 100px;
-    box-shadow: 0 0 0 1px #000;
+    box-shadow: 0 0 0 1px teal;
     border: 5px solid teal;
     cursor: pointer;
     line-height: 100px;
